@@ -15,5 +15,44 @@ img {
 }
 
 #service ul {
-    
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+
+
+#service li {
+    color: #333;
+    background: #fff;
+    margin: lem 0;
+}
+
+h1,h2,h3,p{
+    margin: 0;
+    padding: lem 0;
+
+}
+
+.btn {
+    display: inline-block;
+    border: 1px #666 solid;
+    padding: lem 2em;
+    margin: 2em;
+    color: #fff;
+    text-decoration: none;
+}
+
+.btn:hover{
+    background-color: #eaeaea;
+    color: #333;
+}
+
+#bbbb{
+    min-height: 450px;
+
+}
+
+#bbbb .bg{
+    background: url(/)
+
 }
