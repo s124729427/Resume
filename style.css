@@ -93,7 +93,7 @@ h1,h2,h3,p{
     background: #2690d4;
 }
 
-#contact .bot{
+#contact .box{
     padding: 1em;
 }
 
@@ -120,7 +120,7 @@ footer a{
         grid-column: 2/4;
     }
 
-    .bot,
+    .box,
     footer div {
         grid-column: span 2;
 
