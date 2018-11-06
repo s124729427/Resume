@@ -121,7 +121,7 @@ footer a{
     }
 
     .box,
-    footer div {
+    footer section {
         grid-column: span 2;
 
     }
